@@ -1,4 +1,4 @@
-# **Welcome** My name is Aidan at Grand Blanc Highschool!**
+# **Welcome My name is Aidan at Grand Blanc Highschool!**
 ## APCSP - RESUME
 
 	- 🔭 I’m currently working on schooling, and trying to better myself.
