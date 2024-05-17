@@ -8,8 +8,8 @@ APCSP - RESUME
 	- 📫 How to reach me: 
 	    - email me at: ecobobtrev2@gmail.com
 	    - Insta: @Aidan_bankeroonie
-	    - Facebook: AidanBanks
-	    - Tiktok: Aidan Banks
+	    - Facebook: @AidanBanks
+	    - Tiktok: @Aidan Banks
 
 I love anything **computers**, and the **outdoors**
 
