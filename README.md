@@ -2,7 +2,7 @@
 APCSP - RESUME
 
 
-# ** Welcome **
+# **Welcome**
 ## My name is Aidan! 
-## I love anything ** computers **, and the ** outdoors **
+## I love anything **computers**, and the **outdoors**
 
