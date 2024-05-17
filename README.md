@@ -15,7 +15,7 @@ APCSP - RESUME
 
 I love anything **computers**, and the **outdoors**
 
-##🛠 Technology Stack
+## 🛠 Technology Stack
 	*Simple C++
 	*HTML/JAVA/CSS
 	*Linux shell
