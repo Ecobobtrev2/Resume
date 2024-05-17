@@ -21,5 +21,4 @@ I love anything **computers**, and the **outdoors**
 	       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact"/>
 	   </a>
 	</p>
-compact"/> </a> </p> 
-![image](https://github.com/Ecobobtrev2/Resume/assets/103903050/9ad0beb5-637c-419b-bdd9-c98b52396320)
+
