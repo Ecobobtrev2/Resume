@@ -1,6 +1,6 @@
 # **Welcome**
 ## My name is Aidan at Grand Blanc Highschool! 
-APCSP - RESUME
+## APCSP - RESUME
 
 	- 🔭 I’m currently working on schooling, and trying to better myself.
 	- 🌱 I’m currently learning a better understanding of HTML and CSS.
