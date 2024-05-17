@@ -11,8 +11,9 @@
 	    - Insta: @Aidan_bankeroonie
 	    - Facebook: @AidanBanks
 	    - Tiktok: @Aidan Banks
+     	- I love anything computers, and the outdoors
 
-I love anything **computers**, and the **outdoors**
+
 
 ## 🛠 Technology Stack
 	*Simple C++
