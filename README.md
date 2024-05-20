@@ -6,7 +6,7 @@
 > 🌱 I’m currently learning a better understanding of HTML and CSS.
 >
 >> I know basic and some complex HTML and CSS.
->
+>>
 >> Ive made multiple websites from scrath using them both!
 >
 > 💬 Ask me about anything!
