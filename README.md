@@ -8,9 +8,13 @@
 	- 💬 Ask me about anything!
 	- 📫 How to reach me: 
 > email me at: ecobobtrev2@gmail.com
+> 
 > Insta: @Aidan_bankeroonie
+> 
 > Facebook: @AidanBanks
+> 
 > Tiktok: @Aidan Banks
+
        
 
 
