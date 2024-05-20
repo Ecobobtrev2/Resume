@@ -7,11 +7,11 @@
    		- Ive made multiple websites from scrath using them both!
 	- 💬 Ask me about anything!
 	- 📫 How to reach me: 
-	    - email me at: ecobobtrev2@gmail.com
-	    - Insta: @Aidan_bankeroonie
-	    - Facebook: @AidanBanks
-	    - Tiktok: @Aidan Banks
-        - I love anything computers, and the outdoors.
+> email me at: ecobobtrev2@gmail.com
+> Insta: @Aidan_bankeroonie
+> Facebook: @AidanBanks
+> Tiktok: @Aidan Banks
+       
 
 
 
