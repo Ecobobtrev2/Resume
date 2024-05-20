@@ -16,8 +16,10 @@
 
 
 ## 🛠 Technology Stack
-	*Simple C++
-	*HTML/JAVA/CSS
-	*Linux shell
+
+> Simple C++
+> HTML/JAVA/CSS
+> Linux Shell
+
 
 	
